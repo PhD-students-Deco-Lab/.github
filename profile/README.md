@@ -7,4 +7,4 @@ Welcome to the GitHub Organization created for and created by the PhD Students a
 At some point it might be nice to have some rules here, but those will come up as we go along. 
 
 ## Collaborate and Enjoy
-There are weekly meetings with the PhD students, and you are welcome to join. If you are stuck on something and need some more brains for your storm, this is the place. Sometimes even explaining a problem to other people can already help in figuring it out. And no need to reinvent the wheel... ask around! Someone else might already have the answer.
+There are weekly meetings with the PhD students, and you are welcome to join. If you are stuck on something and need some more brains for your brainstorm, this is the place. Sometimes even explaining a problem to other people can already help in figuring it out. And no need to reinvent the wheel... ask around! Someone else might already have the answer.
